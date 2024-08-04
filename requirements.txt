@@ -1,1 +1,18 @@
 streamlit
+pandas
+langchain
+langchain_community
+langchain-groq
+langchain-core
+
+langgraph
+
+langchain_openai
+
+#
+# sudo apt update
+# sudo apt install graphviz
+#
+
+#graphviz
+#pygraphviz
